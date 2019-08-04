@@ -1,6 +1,7 @@
 package cl.robot.controller;
 
 import cl.robot.service.LedServiceImpl;
+import com.pi4j.io.gpio.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,11 +20,25 @@ public class RobotController {
 
         LOGGER.info("[inicio]["+status+"]");
 
-        LedServiceImpl LedService = LedServiceImpl.getInstance();
-        LedService.ledFixtures(status);
+        System.out.println("GPIO Digital Output Example ... started.");
+
+        final GpioController gpio = GpioFactory.getInstance();
+
+        final GpioPinDigitalOutput pin = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_01);
+
+        if(status==false){
+            if(gpio.isHigh()){
+                pin.low();
+                gpio.shutdown();
+            }
+        }else{
+            pin.high();
+            System.out.println("Pin High");
+        }
+
+        gpio.unprovisionPin(pin);
 
         LOGGER.info("[fijn]["+status+"]");
-
 
         return "Hola "+status;
     }
