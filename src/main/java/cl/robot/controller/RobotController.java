@@ -12,7 +12,6 @@ public class RobotController {
 	
 	private static final Logger LOGGER = LoggerFactory.getLogger(RobotController.class);
 
-	private LedServiceImpl LedService;
 
     @RequestMapping(value = "/up/{status}", method = RequestMethod.GET)
     @CrossOrigin
@@ -20,6 +19,7 @@ public class RobotController {
 
         LOGGER.info("[inicio]["+status+"]");
 
+        LedServiceImpl LedService = LedServiceImpl.getInstance();
         LedService.ledFixtures(status);
 
         LOGGER.info("[fijn]["+status+"]");
