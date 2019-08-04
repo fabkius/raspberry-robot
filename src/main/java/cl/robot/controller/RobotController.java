@@ -27,13 +27,10 @@ public class RobotController {
         final GpioPinDigitalOutput pin = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_01);
 
         if(status==false){
-            if(gpio.isHigh()){
-                pin.low();
-                gpio.shutdown();
-            }
+            pin.low();
+            gpio.shutdown();
         }else{
             pin.high();
-            System.out.println("Pin High");
         }
 
         gpio.unprovisionPin(pin);
