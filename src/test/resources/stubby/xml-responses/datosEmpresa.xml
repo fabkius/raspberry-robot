@@ -1,0 +1,25 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Body>
+      <ConsultaResponse xmlns="http://sinacofi.cl/WebServices">
+         <ConsultaResult>
+            <CodigoRetorno>10000</CodigoRetorno>
+            <TipoPersona>J</TipoPersona>
+            <ResultadoConsulta>S</ResultadoConsulta>
+            <PersonaJuridica>
+               <RazonSocial>SURA HNOS LTDA</RazonSocial>
+               <Filler></Filler>
+            </PersonaJuridica>
+            <Direccion>FREIRE 1014</Direccion>
+            <Comuna>CONCEPCION</Comuna>
+            <Ciudad>CONCEPCION</Ciudad>
+            <DetalleGiros>S</DetalleGiros>
+            <DetalleProfesiones/>
+            <DetallesGiros>
+               <DetalleGiros>
+                  <ActividadEconomica>FABRICACION DE TEJIDOS DE PUNTO                                                                                   @</ActividadEconomica>
+               </DetalleGiros>
+            </DetallesGiros>
+         </ConsultaResult>
+      </ConsultaResponse>
+   </soap:Body>
+</soap:Envelope>

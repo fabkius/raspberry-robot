@@ -1,0 +1,468 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Body>
+      <ConsultaResponse xmlns="http://sinacofi.cl/WebServices">
+         <ConsultaResult>
+            <CodigoRetorno>10000</CodigoRetorno>
+            <ExisteDetalle>S</ExisteDetalle>
+            <NumerodeRegistros>091</NumerodeRegistros>
+            <Detalles>
+               <Detalle>
+                  <NombredePersona>SURA BUSTOS LUCIA Y OTRO</NombredePersona>
+                  <RutdePersona>0503175800</RutdePersona>
+                  <PorcentajedeSimilitud>016</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA CATALAN FDO.</NombredePersona>
+                  <RutdePersona>8023321492</RutdePersona>
+                  <PorcentajedeSimilitud>023</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA CHILE S.A.</NombredePersona>
+                  <RutdePersona>0969950200</RutdePersona>
+                  <PorcentajedeSimilitud>026</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA CORONA FCO.</NombredePersona>
+                  <RutdePersona>800216561K</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA CORONADO FRANCISCO</NombredePersona>
+                  <RutdePersona>8011653457</RutdePersona>
+                  <PorcentajedeSimilitud>017</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA DATA CHILE S.A.</NombredePersona>
+                  <RutdePersona>0969951509</RutdePersona>
+                  <PorcentajedeSimilitud>020</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA HEREDIA BERTA CECILIA Y OTRA</NombredePersona>
+                  <RutdePersona>0508579403</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA HNOS LTDA</NombredePersona>
+                  <RutdePersona>0839258003</RutdePersona>
+                  <PorcentajedeSimilitud>028</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA MUNOZ EVARISTO Y OTS</NombredePersona>
+                  <RutdePersona>0500876603</RutdePersona>
+                  <PorcentajedeSimilitud>016</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA S.A.</NombredePersona>
+                  <RutdePersona>0879081009</RutdePersona>
+                  <PorcentajedeSimilitud>044</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA SABADA JOSE</NombredePersona>
+                  <RutdePersona>8008263257</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA SABADA JOSE</NombredePersona>
+                  <RutdePersona>8010229015</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA SUBABA JORGE</NombredePersona>
+                  <RutdePersona>8010229023</RutdePersona>
+                  <PorcentajedeSimilitud>023</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA SUBARA JOSE</NombredePersona>
+                  <RutdePersona>8010276579</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURA VALENZUELA RODRIGO Y OTRO</NombredePersona>
+                  <RutdePersona>0502790706</RutdePersona>
+                  <PorcentajedeSimilitud>013</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAGRA S.A.</NombredePersona>
+                  <RutdePersona>0761486357</RutdePersona>
+                  <PorcentajedeSimilitud>033</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAIA</NombredePersona>
+                  <RutdePersona>803448475K</RutdePersona>
+                  <PorcentajedeSimilitud>066</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAJ INDRU J.</NombredePersona>
+                  <RutdePersona>8009096788</RutdePersona>
+                  <PorcentajedeSimilitud>028</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAJ PARAMANAND MIRPURI</NombredePersona>
+                  <RutdePersona>8013582476</RutdePersona>
+                  <PorcentajedeSimilitud>016</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAJ PARAMANAND MIRPURI</NombredePersona>
+                  <RutdePersona>801397756K</RutdePersona>
+                  <PorcentajedeSimilitud>016</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAJ PARAMANAND MIRPURI MIRPURI</NombredePersona>
+                  <RutdePersona>8014092529</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURALIANZA LIMITADA</NombredePersona>
+                  <RutdePersona>0760244767</RutdePersona>
+                  <PorcentajedeSimilitud>021</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURALIANZA LTDA.</NombredePersona>
+                  <RutdePersona>8023808464</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURALUM LTDA.</NombredePersona>
+                  <RutdePersona>8005015945</RutdePersona>
+                  <PorcentajedeSimilitud>030</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMCO LIMITADA</NombredePersona>
+                  <RutdePersona>0789318301</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMECO SA</NombredePersona>
+                  <RutdePersona>0966297905</RutdePersona>
+                  <PorcentajedeSimilitud>036</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMER TRADING INV. LTDA.</NombredePersona>
+                  <RutdePersona>8005487766</RutdePersona>
+                  <PorcentajedeSimilitud>015</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMER TRADING INVERSIONES LIMITADA</NombredePersona>
+                  <RutdePersona>0781686107</RutdePersona>
+                  <PorcentajedeSimilitud>011</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA AGENCIAS MARITIMAS S.A.</NombredePersona>
+                  <RutdePersona>800846175K</RutdePersona>
+                  <PorcentajedeSimilitud>011</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA CIAL. LTDA.</NombredePersona>
+                  <RutdePersona>8033832398</RutdePersona>
+                  <PorcentajedeSimilitud>018</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA COMERCIAL LIMITADA</NombredePersona>
+                  <RutdePersona>0761242016</RutdePersona>
+                  <PorcentajedeSimilitud>013</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA COMPUTACION LIMITADA</NombredePersona>
+                  <RutdePersona>0787894208</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA CONSULTORES LTDA</NombredePersona>
+                  <RutdePersona>076379590K</RutdePersona>
+                  <PorcentajedeSimilitud>014</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA CONSULTORES LTDA.</NombredePersona>
+                  <RutdePersona>8015337991</RutdePersona>
+                  <PorcentajedeSimilitud>014</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA CONSULTORES LTDA.</NombredePersona>
+                  <RutdePersona>8015554542</RutdePersona>
+                  <PorcentajedeSimilitud>014</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA CONSULTORES LTDA.</NombredePersona>
+                  <RutdePersona>8016454266</RutdePersona>
+                  <PorcentajedeSimilitud>014</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA CONSULTORES LTDA.</NombredePersona>
+                  <RutdePersona>8020723786</RutdePersona>
+                  <PorcentajedeSimilitud>014</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA INVERSIONES LIMITADA</NombredePersona>
+                  <RutdePersona>0761218352</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA INVS. LTDA.</NombredePersona>
+                  <RutdePersona>8033612665</RutdePersona>
+                  <PorcentajedeSimilitud>018</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA INVS. LTDA.</NombredePersona>
+                  <RutdePersona>8033841400</RutdePersona>
+                  <PorcentajedeSimilitud>018</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA LIMITADA</NombredePersona>
+                  <RutdePersona>0761846507</RutdePersona>
+                  <PorcentajedeSimilitud>021</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA LTDA.</NombredePersona>
+                  <RutdePersona>8012749563</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICA LTDA.</NombredePersona>
+                  <RutdePersona>8016600025</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICANA DE MOTORES E INVERSIONES LIMITADA</NombredePersona>
+                  <RutdePersona>0783621002</RutdePersona>
+                  <PorcentajedeSimilitud>008</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICANA DE TEXTILES S.A.</NombredePersona>
+                  <RutdePersona>0763268780</RutdePersona>
+                  <PorcentajedeSimilitud>013</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMERICANA SA</NombredePersona>
+                  <RutdePersona>0590363405</RutdePersona>
+                  <PorcentajedeSimilitud>026</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAMSA EQUIPOS LIMITADA</NombredePersona>
+                  <RutdePersona>0782469401</RutdePersona>
+                  <PorcentajedeSimilitud>016</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAN CORREDORES DE SEGUROS LIMITADA</NombredePersona>
+                  <RutdePersona>0762531178</RutdePersona>
+                  <PorcentajedeSimilitud>011</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES BUSINESS SPA</NombredePersona>
+                  <RutdePersona>0763208648</RutdePersona>
+                  <PorcentajedeSimilitud>019</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES CONSULTORES LIMITADA</NombredePersona>
+                  <RutdePersona>0760739065</RutdePersona>
+                  <PorcentajedeSimilitud>013</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES CONSULTORES LTDA.</NombredePersona>
+                  <RutdePersona>8029233765</RutdePersona>
+                  <PorcentajedeSimilitud>015</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8006448853</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8006550038</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8007479264</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8007563079</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8008017507</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8009337572</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8009895133</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8009895168</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8010775826</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8010775877</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INV. Y ASESORIAS LTDA.</NombredePersona>
+                  <RutdePersona>8010848610</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES INVERSIONES Y ASESORIAS LIMITAD</NombredePersona>
+                  <RutdePersona>0795039007</RutdePersona>
+                  <PorcentajedeSimilitud>010</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDES SPA</NombredePersona>
+                  <RutdePersona>0761475517</RutdePersona>
+                  <PorcentajedeSimilitud>033</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDINA CONSULTORES LIMITADA</NombredePersona>
+                  <RutdePersona>0760358606</RutdePersona>
+                  <PorcentajedeSimilitud>013</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDINA CONSULTORES LTDA.</NombredePersona>
+                  <RutdePersona>8013583812</RutdePersona>
+                  <PorcentajedeSimilitud>014</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDINAS AGENTE DE VALORES S.A.</NombredePersona>
+                  <RutdePersona>8004186312</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDINAS AGENTE DE VALORES S.A.</NombredePersona>
+                  <RutdePersona>8004254172</RutdePersona>
+                  <PorcentajedeSimilitud>012</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDINAS ASESORIAS E INVERSIONES LIMITADA</NombredePersona>
+                  <RutdePersona>092071000K</RutdePersona>
+                  <PorcentajedeSimilitud>009</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDINAS ASESORIAS E INVS. LTDA.</NombredePersona>
+                  <RutdePersona>8014591789</RutdePersona>
+                  <PorcentajedeSimilitud>011</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURANDINAS ASESORIAS E INVS. LTDA.</NombredePersona>
+                  <RutdePersona>8004255470</RutdePersona>
+                  <PorcentajedeSimilitud>011</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAPEZ S.A.</NombredePersona>
+                  <RutdePersona>8027404023</RutdePersona>
+                  <PorcentajedeSimilitud>033</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAPEZ S.A.</NombredePersona>
+                  <RutdePersona>0760544930</RutdePersona>
+                  <PorcentajedeSimilitud>033</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURARGENT S.A.</NombredePersona>
+                  <RutdePersona>8007300078</RutdePersona>
+                  <PorcentajedeSimilitud>028</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURARTE ACADEMIA</NombredePersona>
+                  <RutdePersona>0650054881</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURASEO LIMITADA</NombredePersona>
+                  <RutdePersona>0761494252</RutdePersona>
+                  <PorcentajedeSimilitud>025</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURATEAU ALBERT</NombredePersona>
+                  <RutdePersona>8004336837</RutdePersona>
+                  <PorcentajedeSimilitud>026</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAUSTRAL EMP. CONSTRA. LTDA.</NombredePersona>
+                  <RutdePersona>8023316367</RutdePersona>
+                  <PorcentajedeSimilitud>013</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAUSTRAL EMPRESA CONSTRUCTORA LIMITADA</NombredePersona>
+                  <RutdePersona>0760171638</RutdePersona>
+                  <PorcentajedeSimilitud>010</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAUTO S A C</NombredePersona>
+                  <RutdePersona>0912140008</RutdePersona>
+                  <PorcentajedeSimilitud>030</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAVIA TRADING AND INVESTMENT INC</NombredePersona>
+                  <RutdePersona>0590908207</RutdePersona>
+                  <PorcentajedeSimilitud>011</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAY LTDA.</NombredePersona>
+                  <RutdePersona>8010360952</RutdePersona>
+                  <PorcentajedeSimilitud>036</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAY TURISMO LIMITADA</NombredePersona>
+                  <RutdePersona>0786162904</RutdePersona>
+                  <PorcentajedeSimilitud>018</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAYA</NombredePersona>
+                  <RutdePersona>8016401251</RutdePersona>
+                  <PorcentajedeSimilitud>066</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAYA</NombredePersona>
+                  <RutdePersona>801673157K</RutdePersona>
+                  <PorcentajedeSimilitud>066</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAYA</NombredePersona>
+                  <RutdePersona>8016731812</RutdePersona>
+                  <PorcentajedeSimilitud>066</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAYA</NombredePersona>
+                  <RutdePersona>801673322K</RutdePersona>
+                  <PorcentajedeSimilitud>066</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAZO MOIX CIA. LTDA.</NombredePersona>
+                  <RutdePersona>8033737999</RutdePersona>
+                  <PorcentajedeSimilitud>018</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAZO MOIX CIA. LTDA.</NombredePersona>
+                  <RutdePersona>8033901152</RutdePersona>
+                  <PorcentajedeSimilitud>018</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAZO MOIX COMPANIA LIMITADA</NombredePersona>
+                  <RutdePersona>076123272K</RutdePersona>
+                  <PorcentajedeSimilitud>013</PorcentajedeSimilitud>
+               </Detalle>
+               <Detalle>
+                  <NombredePersona>SURAZO S.A.</NombredePersona>
+                  <RutdePersona>8009442228</RutdePersona>
+                  <PorcentajedeSimilitud>036</PorcentajedeSimilitud>
+               </Detalle>
+            </Detalles>
+         </ConsultaResult>
+      </ConsultaResponse>
+   </soap:Body>
+</soap:Envelope>
