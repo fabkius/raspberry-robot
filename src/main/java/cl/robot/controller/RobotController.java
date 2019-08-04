@@ -1,6 +1,6 @@
 package cl.robot.controller;
 
-import cl.robot.service.LedService;
+import cl.robot.service.LedServiceImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,9 +12,7 @@ public class RobotController {
 	
 	private static final Logger LOGGER = LoggerFactory.getLogger(RobotController.class);
 
-    @Autowired
-    private LedService ledService;
-
+	private LedServiceImpl LedService;
 
     @RequestMapping(value = "/up/{status}", method = RequestMethod.GET)
     @CrossOrigin
@@ -22,7 +20,7 @@ public class RobotController {
 
         LOGGER.info("[inicio]["+status+"]");
 
-        ledService.ledFixtures(status);
+        LedService.ledFixtures(status);
 
         LOGGER.info("[fijn]["+status+"]");
 
