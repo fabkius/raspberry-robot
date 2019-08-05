@@ -2,13 +2,29 @@
 <html>
 <head>
     <title>raspberry control led</title>
+
+    <style>
+        .button {
+          background-color: #4CAF50;
+          border: none;
+          color: white;
+          padding: 30px 256px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 32px;
+          margin: 4px 2px;
+          cursor: pointer;
+        }
+</style>
+
 </head>
 <body>
 
 <div id="botones" align="center">
-    <button onclick="turn(true)">Prender LED</button>
+    <button class="button" onclick="turn(true)">Prender LED</button>
     <br><br>
-    <button onclick="turn(false)">Apagar LED</button>
+    <button class="button" onclick="turn(false)">Apagar LED</button>
 </div>
 
 <p id="demo"></p>
