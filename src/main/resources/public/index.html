@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>raspberry control led</title>
+</head>
+<body>
+
+<div id="botones" align="center">
+    <button onclick="turn(true)">Prender LED</button>
+    <br><br>
+    <button onclick="turn(false)">Apagar LED</button>
+</div>
+
+<p id="demo"></p>
+
+<script>
+function turn(status) {
+	// Create a request variable and assign a new XMLHttpRequest object to it.
+	var request = new XMLHttpRequest()
+
+	// Open a new connection, using the GET request on the URL endpoint
+	request.open('GET', 'http://192.168.1.88:8081/robot/up/'+status, true)
+
+	// Send request
+	request.send()
+
+    if(status==true){
+    	 document.getElementById("demo").innerHTML = "Prendida!";
+    }else{
+    	    document.getElementById("demo").innerHTML = "Apagada!";
+    }
+}
+</script>
+
+</body>
+</html>
